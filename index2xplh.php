@@ -20,18 +20,6 @@ test
 Question1
   
   
-  
-  
-<?php  
-echo $_SESSION['F1'];
-?>  
-  
-
-  
-  
- 
-  
-  
 <form method="GET">
 <input name="rq1" type="radio" value="1">1
 <input name="rq1" type="radio" value="2">2
