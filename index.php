@@ -67,7 +67,7 @@ else {
 Start
 </title>
 </head>
-<body>
+<body bgcolor=black>
 <font color = red>
 <?php
 echo $_SESSION['chwd'];
