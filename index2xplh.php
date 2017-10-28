@@ -23,7 +23,7 @@ Question1
   
   
 <?php  
-echo $_SESSION['nm1'];
+echo $_SESSION['F1'];
 ?>  
   
 
