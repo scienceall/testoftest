@@ -68,7 +68,7 @@ Start
 </title>
 </head>
 <body>
-<font color = purple>
+<font color = red>
 <?php
 echo $_SESSION['chwd'];
 ?>
